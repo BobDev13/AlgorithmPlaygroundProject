@@ -1,0 +1,14 @@
+C:\Users\Micoski\algorithm-playground\csharp\bin\Release\net8.0\AlgorithmPlayground.exe
+C:\Users\Micoski\algorithm-playground\csharp\bin\Release\net8.0\AlgorithmPlayground.deps.json
+C:\Users\Micoski\algorithm-playground\csharp\bin\Release\net8.0\AlgorithmPlayground.runtimeconfig.json
+C:\Users\Micoski\algorithm-playground\csharp\bin\Release\net8.0\AlgorithmPlayground.dll
+C:\Users\Micoski\algorithm-playground\csharp\bin\Release\net8.0\AlgorithmPlayground.pdb
+C:\Users\Micoski\algorithm-playground\csharp\obj\Release\net8.0\AlgorithmPlayground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micoski\algorithm-playground\csharp\obj\Release\net8.0\AlgorithmPlayground.AssemblyInfoInputs.cache
+C:\Users\Micoski\algorithm-playground\csharp\obj\Release\net8.0\AlgorithmPlayground.AssemblyInfo.cs
+C:\Users\Micoski\algorithm-playground\csharp\obj\Release\net8.0\AlgorithmPlayground.csproj.CoreCompileInputs.cache
+C:\Users\Micoski\algorithm-playground\csharp\obj\Release\net8.0\AlgorithmPlayground.dll
+C:\Users\Micoski\algorithm-playground\csharp\obj\Release\net8.0\refint\AlgorithmPlayground.dll
+C:\Users\Micoski\algorithm-playground\csharp\obj\Release\net8.0\AlgorithmPlayground.pdb
+C:\Users\Micoski\algorithm-playground\csharp\obj\Release\net8.0\AlgorithmPlayground.genruntimeconfig.cache
+C:\Users\Micoski\algorithm-playground\csharp\obj\Release\net8.0\ref\AlgorithmPlayground.dll
